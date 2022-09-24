@@ -1,2 +1,2 @@
 # acerta-o-alvo
-Meu primeiro jogo programando em javascript.
+Meu primeiro jogo programando feito em javascript.
